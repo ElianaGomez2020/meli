@@ -8,15 +8,6 @@
 Magneto quiere reclutar la mayor cantidad de mutantes para poder luchar contra los X-Men.
 
 
-## Requisitos
-
-Es necesario tener instalado:
-
-```
-Java 11
-
-```
-
 
 ## Instalación
 
